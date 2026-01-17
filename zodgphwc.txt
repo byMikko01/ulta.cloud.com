@@ -1,5 +1,6 @@
-#profile-title:AntiZapret
+#profile-title:Ulta VPN
 #subscription-auto-update-open-enable: 1
 #profile-update-interval: 2
 #announce:Free
+#hide-settings: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=64175760000

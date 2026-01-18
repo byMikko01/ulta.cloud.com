@@ -4,8 +4,7 @@
 #announce:Привет из РКН
 #subscription-userinfo: upload=0; download=0; total=0; expire=64175760000
 #hide-settings: true
-vless://12345678-1234-1234-1234-123456789123@141.11.202.61:2096?
-path=%2Fsnippets&security=tls&encryption=none&insecure=0&host=vless.hubp.de&type=ws&allowInsecure=0&sni=vless.hubp.de#%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://fef4d831-dac1-40aa-9ac5-da517ad5748b@catsecret.catlove.qzz.io:5443?mode=gun&security=reality&encryption=none&authority=catsecret.catlove.qzz.io&pbk=LeGoKhqaKrmtejsRi2mNbZPSuI3YOD08GhYsbC1x5A4&fp=chrome&spx=%2F&type=grpc&serviceName=catsecret.catlove.qzz.io&sni=catsecret.catlove.qzz.io&sid=46174a21#%F0%9F%87%B7%F0%9F%87%BA%20Russia
 vless://a2afaf73-dc35-45a0-95e1-ba754d710c8d@nl01.pugovkabooster.com:443?security=reality&encryption=none&pbk=Dcy5P5rKN1GmV2KHVRzWpVmX4hhZDnt4dVUdTBt2Wjs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.173.116:2083?mode=gun&security=reality&encryption=none&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=chrome&type=grpc&serviceName=UpdateService&sni=apple.com&sid=6da16b1335651b38#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@185.94.29.242:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16#%F0%9F%87%A9%F0%9F%87%AA%20Germany

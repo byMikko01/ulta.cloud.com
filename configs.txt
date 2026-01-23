@@ -1,7 +1,7 @@
 #profile-title:Ulta VPN
 #subscription-auto-update-open-enable: 1
 #profile-update-interval: 2
-#announce:by Mikko for You
+#announce:UltaVPN from DarkProject
 #subscription-userinfo: upload=0; download=0; total=0; expire=64175760000
 #hide-settings: true
 vless://4fe214fb-048e-431f-b939-4518dc9df6a2@92.63.106.103:443?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdnmsk.serverstats.ru&type=xhttp&allowInsecure=0&sni=cdnmsk.serverstats.ru#%F0%9F%87%B7%F0%9F%87%BA%20RUSSIA%20%231%20%28YT%20NO%20ADS%29

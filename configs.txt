@@ -5,6 +5,6 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=64175760000
 #hide-settings: true
 vless://7b59da20-b86f-44f8-a2a4-9d928167c223@rus.fasti.win:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=rus.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#🇷🇺 Russia #1 (YT NO ADS)
-vless://7b59da20-b86f-44f8-a2a4-9d928167c223@lv.fasti.win:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=lv.fasti.win&fp=chrome&pbk=9ged75OhdD4P8yzPPXDESnRkdFM4br4I44OwXLWd_iY&sid=0a50b13e8fa3a7ef#🇱🇻 Latvia #2
+vless://37c4698d-8e01-4660-bf95-b2bde5074ccf@172.96.1.8:1883?security=reality&encryption=none&pbk=OyGxax1037g3nQrsIW0PtXHik3WI1ikOT2pxm9c7fxw&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=osxapps.itunes.apple.com&sid=6ba85179e30d4fc2#🇳🇱 Netherlands #2
 vless://7b59da20-b86f-44f8-a2a4-9d928167c223@pol.fasti.win:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=pl.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#🇵🇱 Poland #3
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.95:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸 United States #4
